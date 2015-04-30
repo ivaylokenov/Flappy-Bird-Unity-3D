@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 4d0faeea39af5b642b3ba4314dd00601
+timeCreated: 1430380671
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: clony_bird_sprites_0
+    21300002: clony_bird_sprites_1
+    21300004: clony_bird_sprites_2
+    21300006: clony_bird_sprites_3
+    21300008: clony_bird_sprites_4
+    21300010: clony_bird_sprites_5
+    21300012: clony_bird_sprites_6
+    21300014: clony_bird_sprites_7
+    21300016: clony_bird_sprites_8
+    21300018: clony_bird_sprites_9
+    21300020: clony_bird_sprites_10
+    21300022: clony_bird_sprites_11
+    21300024: clony_bird_sprites_12
+    21300026: clony_bird_sprites_13
+    21300028: clony_bird_sprites_14
+    21300030: clony_bird_sprites_15
+    21300032: clony_bird_sprites_16
+    21300034: clony_bird_sprites_17
+    21300036: clony_bird_sprites_18
+    21300038: clony_bird_sprites_19
+    21300040: clony_bird_sprites_20
+    21300042: clony_bird_sprites_21
+    21300044: clony_bird_sprites_22
+    21300046: clony_bird_sprites_23
+    21300048: clony_bird_sprites_24
+    21300050: clony_bird_sprites_25
+    21300052: clony_bird_sprites_26
+    21300054: clony_bird_sprites_27
+    21300056: clony_bird_sprites_28
+    21300058: clony_bird_sprites_29
+    21300060: clony_bird_sprites_30
+    21300062: clony_bird_sprites_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: clony_bird_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 79
+        width: 145
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 279
+        width: 154
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 314
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 314
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 314
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 314
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 314
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 289
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 290
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 290
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 290
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 290
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 264
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 134
+        width: 26
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 148
+        width: 26
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 266
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 266
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 266
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 246
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 241
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 241
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 241
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 241
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 241
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 241
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 241
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 241
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 241
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 241
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 230
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 214
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clony_bird_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 154
+        width: 123
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
